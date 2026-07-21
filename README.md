@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/naman-saini-395/leetcode-solution/tree/master/0415-add-strings) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/naman-saini-395/leetcode-solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/naman-saini-395/leetcode-solution/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/naman-saini-395/leetcode-solution/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/naman-saini-395/leetcode-solution/tree/master/0415-add-strings) |
 | [0567-permutation-in-string](https://github.com/naman-saini-395/leetcode-solution/tree/master/0567-permutation-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/naman-saini-395/leetcode-solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/naman-saini-395/leetcode-solution/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/naman-saini-395/leetcode-solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
