@@ -152,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/naman-saini-395/leetcode-solution/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/naman-saini-395/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/naman-saini-395/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
