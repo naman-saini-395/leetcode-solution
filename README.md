@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/naman-saini-395/leetcode-solution/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/naman-saini-395/leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/naman-saini-395/leetcode-solution/tree/master/1929-concatenation-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/naman-saini-395/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/naman-saini-395/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/naman-saini-395/leetcode-solution/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/naman-saini-395/leetcode-solution/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/naman-saini-395/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -51,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/naman-saini-395/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/naman-saini-395/leetcode-solution/tree/master/0415-add-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naman-saini-395/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2965-find-missing-and-repeated-values](https://github.com/naman-saini-395/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/naman-saini-395/leetcode-solution/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/naman-saini-395/leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
