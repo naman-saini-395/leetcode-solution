@@ -202,23 +202,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/naman-saini-395/leetcode-solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/naman-saini-395/leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/naman-saini-395/leetcode-solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/naman-saini-395/leetcode-solution/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/naman-saini-395/leetcode-solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/naman-saini-395/leetcode-solution/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/naman-saini-395/leetcode-solution/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/naman-saini-395/leetcode-solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/naman-saini-395/leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/naman-saini-395/leetcode-solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/naman-saini-395/leetcode-solution/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/naman-saini-395/leetcode-solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/naman-saini-395/leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/naman-saini-395/leetcode-solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/naman-saini-395/leetcode-solution/tree/master/0112-path-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
