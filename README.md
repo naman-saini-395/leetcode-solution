@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/naman-saini-395/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/naman-saini-395/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/naman-saini-395/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/naman-saini-395/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/naman-saini-395/leetcode-solution/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/naman-saini-395/leetcode-solution/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/naman-saini-395/leetcode-solution/tree/master/0415-add-strings) |
@@ -203,12 +204,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/naman-saini-395/leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/naman-saini-395/leetcode-solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/naman-saini-395/leetcode-solution/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/naman-saini-395/leetcode-solution/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/naman-saini-395/leetcode-solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/naman-saini-395/leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/naman-saini-395/leetcode-solution/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/naman-saini-395/leetcode-solution/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -223,8 +226,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/naman-saini-395/leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/naman-saini-395/leetcode-solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/naman-saini-395/leetcode-solution/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/naman-saini-395/leetcode-solution/tree/master/0257-binary-tree-paths) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/naman-saini-395/leetcode-solution/tree/master/0202-happy-number) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/naman-saini-395/leetcode-solution/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
