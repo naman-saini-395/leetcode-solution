@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/naman-saini-395/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/naman-saini-395/leetcode-solution/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/naman-saini-395/leetcode-solution/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/naman-saini-395/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/naman-saini-395/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/naman-saini-395/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/naman-saini-395/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
